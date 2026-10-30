@@ -17,7 +17,6 @@ void main() {
         }
     }
 
-    // Fila 0: suma. Fila 1: maximo. Fila 2: minimo.
     for (int j = 0; j < m; j++) {
         resultados[1][j] = matriz[0][j];
         resultados[2][j] = matriz[0][j];
